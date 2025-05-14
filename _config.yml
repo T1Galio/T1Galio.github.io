@@ -26,8 +26,8 @@ author:
   name             : "Yucan Wu"
   pronouns         : # example: "she/her"  
   bio              : "The emperor of Shurima"
-  location         : "Beijing"
-  employer         : "China Agricultural University"
+  location         : "北京，中国"
+  employer         : "中国农业大学"
   uri              : # URL
   email            : "1156026315@qq.com" 
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
